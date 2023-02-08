@@ -14,6 +14,6 @@ Membuat sebuah program kasir yang dapat menjalankan tugas sebagai berikut:
 Pembuatan program dengan Python dengan implementasikan function, brancing, data structure, OOP, dan PEP8
 
 Flow Chart
-[alt text](https://github.com/randityateri/Cashier/blob/master/Diagram%20Tanpa%20Judul.drawio.png)
+[alt text](https://github.com/randityateri/Cashier/blob/master/Flowchart.png)
 
 ....
