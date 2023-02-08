@@ -13,4 +13,7 @@ Membuat sebuah program kasir yang dapat menjalankan tugas sebagai berikut:
     Melihat total harga keseluruhan item yang dipilih
 Pembuatan program dengan Python dengan implementasikan function, brancing, data structure, OOP, dan PEP8
 
-Fow Chart
+Flow Chart
+[alt text](https://github.com/randityateri/Cashier/blob/master/Diagram%20Tanpa%20Judul.drawio.png)
+
+....
