@@ -16,4 +16,6 @@ Pembuatan program dengan Python dengan implementasikan function, brancing, data 
 Flow Chart
 [alt text](https://github.com/randityateri/Cashier/blob/master/Flowchart.png)
 
+<img src="https://github.com/randityateri/Cashier/blob/master/Flowchart.png" alt="Alt text" title="Optional title">
+
 ....
