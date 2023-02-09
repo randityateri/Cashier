@@ -29,7 +29,7 @@ Pembuatan program dengan Python dengan implementasikan function, brancing, data 
    <img src="https://github.com/randityateri/Cashier/blob/master/5.update_item_price.png" alt="Alt text" title="update_price"> <br/>
 6. Method menghapus item <br/>
    <img src="https://github.com/randityateri/Cashier/blob/master/6.delete_item.png" alt="Alt text" title="delete"> <br/>
-7. Method mengupdate harga <br/>
+7. Method menghapus semua iyem <br/>
    <img src="https://github.com/randityateri/Cashier/blob/master/7.reset_trans.png" alt="Alt text" title="reset"> <br/> 
 8. Method menampilkan daftar item <br/>
    <img src="https://github.com/randityateri/Cashier/blob/master/8.print_order.png" alt="Alt text" title="print"> <br/>
@@ -38,11 +38,11 @@ Pembuatan program dengan Python dengan implementasikan function, brancing, data 
 10. Method mengecheck total transaksi <br/>
    <img src="https://github.com/randityateri/Cashier/blob/master/10.total_prize.png" alt="Alt text" title="total_price"> <br/>
 # Test Case <br/>
-1. Menambahkan Item
-   Ayam goreng, berjumlah: 2, harga: 20000
+1. Menambahkan Item <br/>
+   Ayam goreng, berjumlah: 2, harga: 20000 <br/>
    Pasta Gigi, berjumlah: 3, Harga: 15000 <br/>
    <img src="https://github.com/randityateri/Cashier/blob/master/11.c1.png" alt="Alt text" title="case1"> <br/>
-2. Menghapus Item
+2. Menghapus Item <br/>
    Menghapus item pasta gigi <br/>
    <img src="https://github.com/randityateri/Cashier/blob/master/12.c2.png" alt="Alt text" title="case2"> <br/>
 3. Reset Transaksi <br/>
