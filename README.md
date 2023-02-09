@@ -25,7 +25,7 @@ Pembuatan program dengan Python dengan implementasikan function, brancing, data 
    <img src="https://github.com/randityateri/Cashier/blob/master/3.update_item_name.png" alt="Alt text" title="update_name"> <br/>
 4. Method mengupdate jumlah item <br/>
    <img src="https://github.com/randityateri/Cashier/blob/master/4.update_item_qty.png" alt="Alt text" title="update_qty"> <br/>
-5. Method mengupdate harga item
+5. Method mengupdate harga item <br/>
    <img src="https://github.com/randityateri/Cashier/blob/master/5.update_item_price.png" alt="Alt text" title="update_price"> <br/>
 6. Method menghapus item <br/>
    <img src="https://github.com/randityateri/Cashier/blob/master/6.delete_item.png" alt="Alt text" title="delete"> <br/>
