@@ -54,4 +54,6 @@ Membuat sebuah program kasir yang dapat menjalankan tugas sebagai berikut:<br/>
 
 # Conclusion
 Sangat memungkinkan untuk membuat aplikasi self service cashier sederhana menggunakan python
- ....
+
+# Repository
+https://github.com/randityateri/Cashier/blob/master/cashier.py
